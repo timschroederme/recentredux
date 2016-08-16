@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'Recent Redux' target in the 'Recent Redux' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+
+
+

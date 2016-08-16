@@ -1,0 +1,9 @@
+tell application "Mail"
+	activate
+	set MailAnhang to alias "%@"
+	set AutoMail to make new outgoing message
+	tell AutoMail
+		make new attachment with properties {file name:MailAnhang}
+		set visible of AutoMail to true
+	end tell
+end tell

@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html><head>
+	<title>Recent-Redux-Hilfe</title> 
+	<meta name="AppleTitle" content="Recent-Redux-Hilfe" >
+	<meta name="copyright" content="Copyright 2011 Tim Schröder. All Rights Reserved." >
+	<meta name="AppleIcon" content="images/logosmall.png" >
+	<meta name="description" content="Recent-Redux-Hilfe." >
+    <meta name="ROBOTS" content="NOINDEX">
+	<meta http-equiv="content-type" content="text/html; charset=x-mac-roman" >
+	<link href="styles.css" rel="stylesheet" media="screen" type="text/css" ></head><body bgcolor="#FFFFFF" style="" >
+
+
+<div class="border" >
+<table border="0" cellpadding="0" cellspacing="5" >
+	<tbody><tr valign="center" >
+		<td width="60" align="center" valign="center" style="height:20px; padding-bottom:0px; " >
+			<p>
+			<img src="images/logoverysmall.png" alt="" ></p>
+		</td>
+		<td class="contents" valign="center" style="padding-bottom:0px; " >
+				<h2>Recent-Redux-Hilfe</h2>
+	</td>
+		</tr>
+</tbody></table>
+<h1>Inhaltsverzeichnis</h1>
+
+<a href="gettingstarted.html" target="" name="" >&Uuml;bersicht</a>
+<div class="contentsmall" >Hauptfenster - Filterleiste - Hotkey und Immer im Vordergrund - Dock-Men&uuml; - Was wird angezeigt? - Aktionen</div><a href="actions.html" target="" name="" >Aktionen</a>
+<div class="contentsmall" >Vorschau - &Ouml;ffnen - &Ouml;ffnen mit - Kopieren - Pfad kopieren - In Finder anzeigen - Per Email verbreiten</div><a href="genprefs.html" target="" name="" >Allgemeine Einstellungen</a><div class="contentsmall" >Hotkey - Standard-Email-Client</div><a href="searchprefs.html" target="" name="" >Sucheinstellungen</a><div class="contentsmall" >Suchzeitraum - Suchumfang - Suchorte</div><a href="filterprefs.html" target="" name="" >Filtereinstellungen</a><div class="contentsmall" >Filter verwalten - Filter editieren</div>
+<a href="support.html" target="" name="" >Support<br><br></a><a href="releasenotes.html" target="" name="" >Release Notes</a><br><br></div></body></html>

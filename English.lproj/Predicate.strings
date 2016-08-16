@@ -1,0 +1,19 @@
+/* 
+   Predicate.strings
+   Recent Redux
+
+   Created by Tim Schröder on 24.01.11.
+   Copyright 2011 Tentacle Forge. All rights reserved.
+ */
+
+// localize the compound row template
+"%[Any]@ of the following are true" = "%[Any]@ of the following are true";
+"%[All]@ of the following are true" = "%[All]@ of the following are true";
+
+// localize the UTI row template
+"%[itemType]@ %[contains]@ %@" = "%[Uniform Type Identifier]@ %[is]@ %@";
+
+// localize the filename row template
+"%[name]@ %[contains]@ %@" = "%[Filename]@ %[contains]@ %@";
+"%[name]@ %[begins with]@ %@" = "%[Filename]@ %[begins with]@ %@";
+"%[name]@ %[ends with]@ %@" = "%[Filename]@ %[ends with]@ %@";

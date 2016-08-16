@@ -1,0 +1,149 @@
+/* 
+   Localizable.strings
+   Recent Redux
+
+   Created by Tim Schröder on 22.01.11.
+   Copyright 2011 Tentacle Forge. All rights reserved.
+ */
+
+ERROR_ATTACHMENT_TITLE = "Die Datei ist zu groß, um per Email versandt zu werden.";
+ERROR_ATTACHMENT_NOTICE = "Es können nur Dateien versandt werden, die nicht größer als 25 Megabty sind. Für weitere Informationen siehe die Hilfe.";
+
+ERROR_SCRIPT_TITLE = "Datei konnte nicht an Email-Client übermittelt werden.";
+ERROR_SCRIPT_NOTICE = "Der Grund für diesen Fehler ist unbekannt.";
+
+ERROR_CLIENT_TITLE = "Kein unterstützter Email-Client gefunden.";
+ERROR_CLIENT_NOTICE = "Bitte installieren Sie einen unterstützten Email-Client. Für weitere Informationen siehe die Hilfe.";
+
+SCOPE_TITLE_ALL = "Alles";
+SCOPE_TITLE_DOCUMENTS = "Dokumente";
+SCOPE_TITLE_PDF = "PDF";
+SCOPE_TITLE_MEDIA = "Medien";
+SCOPE_TITLE_IMAGES = "Bilder";
+SCOPE_TITLE_FOLDERS = "Ordner";
+SCOPE_TITLE_MESSAGES = "Emails";
+SCOPE_TITLE_APPS = "Programme";
+
+SCOPE_DESCRIPTION_ALL = "Alle Dateien";
+SCOPE_DESCRIPTION_DOCUMENTS = "Alle Dokumente";
+SCOPE_DESCRIPTION_PDF = "Alle PDF-Dateien";
+SCOPE_DESCRIPTION_MEDIA = "Alle Medien-Dateien (Audio, Video)";
+SCOPE_DESCRIPTION_IMAGES = "Alle Bild-Dateien";
+SCOPE_DESCRIPTION_FOLDERS = "Alle Ordner";
+SCOPE_DESCRIPTION_MESSAGES = "Alle Email-Nachrichten (Mail.App)";
+SCOPE_DESCRIPTION_APPS = "Alle Anwendungen";
+
+MENU_STANDARD = "Standard";
+MENU_QUICKLOOK_ACTIVE = "Übersicht schließen";
+MENU_OTHERAPP = "Anderem Programm  ...";
+MENU_OPENWITHCAPTION = "Programm auswählen";
+
+MENU_ABOUT = "Über Recent Redux";
+MENU_PREFERENCES = "Einstellungen ...";
+MENU_SERVICES = "Dienste";
+MENU_HIDE = "Recent Redux ausblenden";
+MENU_HIDEOTHERS = "Andere ausblenden";
+MENU_SHOWALL = "Alle einblenden";
+MENU_QUIT = "Recent Redux beenden";
+
+MENU_FILE = "Ablage";
+MENU_QUICKLOOK = "Übersicht von";
+MENU_OPEN = "Öffnen";
+MENU_OPENWITH = "Öffnen mit";
+MENU_SHOWINFINDER = "Im Finder anzeigen";
+MENU_SHARE = "Verbreiten";
+MENU_EMAIL = "Email";
+
+MENU_EDIT = "Bearbeiten";
+MENU_UNDO = "Widerrufen";
+MENU_REDO = "Wiederholen";
+MENU_CUT = "Ausschneiden";
+MENU_COPY = "Kopieren";
+MENU_COPY_FILE = "\"%@\" kopieren";
+MENU_COPYPATH = "Pfad kopieren";
+MENU_PASTE = "Einfügen";
+MENU_DELETE = "Löschen";
+MENU_SELECTALL = "Alles auswählen";
+MENU_FIND = "Suchen";
+MENU_FINDSOMETHING = "Suchen ...";
+MENU_FINDNEXT = "Weitersuchen (vorwärts)";
+MENU_FINDPREVIOUS = "Weitersuchen (rückwärts)";
+MENU_FINDUSESELECTION = "Auswahl suchen";
+MENU_FINDJUMPTOSELECTION = "Auswahl anzeigen";
+
+MENU_FILTER = "Filter";
+MENU_EDITFILTERS = "Filter bearbeiten";
+
+MENU_WINDOW = "Fenster";
+MENU_ALWAYSINFRONT = "Immer im Vordergrund";
+MENU_MINIMIZE = "Im Dock ablegen";
+MENU_ZOOM = "Zoomen";
+MENU_CLOSE = "Schließen";
+MENU_BRINGALLTOFRONT = "Alle nach vorne bringen";
+
+MENU_HELPCAPTION = "Hilfe";
+MENU_HELP = "Recent-Redux-Hilfe";
+
+STATUS_FETCHING = "Einträge werden ermittelt:";
+STATUS_UPDATING = "Einträge werden aktualisiert:";
+STATUS_EMAIL = "Email-Nachricht wird vorbereitet:";
+STATUS_ITEM_PLURAL = "Dateien";
+STATUS_ITEM_SINGULAR = "Datei";
+
+OPEN_WITH_CAPTION = "Programm wählen, um \"%@\" zu öffnen.";
+OPEN_WITH_OK_LOC = "Öffnen";
+
+MAILWINDOW_HEADING = "Bitte wählen Sie einen Email-Client";
+MAILWINDOW_LINEABOVE = "Ihr Default-Email-Client wird von Recent Redux derzeit nicht unterstützt. Bitte wählen Sie einen Client aus, um fortzufahren:";
+MAILWINDOW_LINEBELOW = "Dies kann später in den Einstellungen geändert werden.";
+
+PREFWINDOW_TITLE = "Einstellungen: %@";
+PREFWINDOW_GENERALPANE = "Allgemein";
+PREFWINDOW_SEARCHPANE = "Suche";
+PREFWINDOW_QUERIESPANE = "Filter";
+
+PREFWINDOW_HOTKEY = "Hotkey:";
+PREFWINDOW_HOTKEYCHECK = "Systemweite Hotkey (⌥←) aktivieren";
+PREFWINDOW_SENDEMAILWITH = "Emails versenden mit:";
+
+PREFWINDOW_SEARCHTIME = "Suchzeitraum:";
+PREFWINDOW_SEARCHTIMEPREFIX = "Die letzten"; 
+PREFWINDOW_SEARCHTIMESUFFIX = "Stunden";
+
+PREFWINDOW_SEARCHSCOPE = "Suchumfang:";
+PREFWINDOW_SEARCHSCOPESMALL = "Nur vom Benutzer geöffnete Dateien";
+PREFWINDOW_SEARCHSCOPEBIG = "Alle geöffneten oder veränderten Dateien";
+
+PREFWINDOW_SEARCHLOCATION = "Suchorte:";
+PREFWINDOW_SEARCHLOCATIONSMALL = "Nur Benutzer- und Programmordner";
+PREFWINDOW_SEARCHLOCATIONBIG = "Alle lokalen Ordner";
+
+PREFWINDOW_QUERYTITLE = "Titel:";
+PREFWINDOW_QUERYDESCRIPTION = "Beschreibung:";
+PREFWINDOW_QUERYENABLEDCHECKBOX = "Aktiv";
+PREFWINDOW_EDITQUERYBUTTON = "Filter bearbeiten";
+PREFWINDOW_EDITOROKBUTTON = "OK";
+PREFWINDOW_EDITORCANCELBUTTON = "Abbrechen";
+
+QUERY_DEFAULTTITLE = "Filter";
+QUERY_DEFAULTDESCRIPTION = "Beschreibung";
+
+OKBUTTONCAPTION = "OK";
+CANCELBUTTONCAPTION = "Abbrechen";
+ITEM_KIND_UNKNOWN = "Unbekanntes Element";
+
+APPSTORE_EXIST_MESSAGE = "Sie haben die Vollversion von %@ im Verzeichnis \"%@\" installiert.\n\nDas Programm, das Sie gerade gestartet haben, ist die Testversion, die gelöscht werden sollte. Wollen Sie die Testversion jetzt beenden, damit Sie sie löschen können?\n\nTipp: Verwenden Sie den Eintrag \"In den Papierkorb legen\" im Ablage-Menü.";
+
+APPSTORE_DIAGLOG_CAPTION = "Mehrere Programm-Versionen installiert";
+APPSTORE_QUIT_BUTTON = "Beenden und im Finder anzeigen";
+APPSTORE_IGNORE_BUTTON = "Ignorieren";
+TRIAL_MESSAGE = "Diese Testversion von %@ kann noch %i Tage lang verwendet werden.";
+TRIAL_DIALOG_CAPTION = "Danke, dass Sie %@ verwenden!";
+TRIAL_LAUNCH_BUTTON = "%@ kaufen";
+APPSTORE_URL = "http://itunes.apple.com/us/app/recent-redux/id418922575?mt=12";
+TRIAL_EXPIRED_MESSAGE = "Um %@ weiter zu verwenden, müssen Sie eine Lizenz erwerben.";
+TRIAL_CLOSE_BUTTON = "Beenden";
+TRIAL_EXPIRED_CAPTION = "Die Testversion von %@ ist abgelaufen";
+
+
+

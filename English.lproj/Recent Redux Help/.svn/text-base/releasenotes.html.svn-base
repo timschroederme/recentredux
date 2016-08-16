@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html><head>
+	<title>Recent Redux Help</title> 
+	<meta name="AppleTitle" content="Recent Redux Help" >
+	<meta name="copyright" content="Copyright 2011 Tim Schröder. All Rights Reserved." >
+	<meta name="AppleIcon" content="images/logosmall.png" >
+	<meta name="description" content="Recent Redux Help." >
+	<meta http-equiv="content-type" content="text/html; charset=x-mac-roman" >
+	<link href="styles.css" rel="stylesheet" media="screen" type="text/css" ></head><body bgcolor="#FFFFFF" style="" >
+
+
+<div class="border" >
+<table border="0" cellpadding="0" cellspacing="5" >
+	<tbody><tr valign="center" >
+		<td width="60" align="center" valign="center" >
+			<p>
+			<img src="images/logoverysmall.png" alt="" ></p>
+		</td>
+		<td class="contents" valign="center" >
+				<h2>Recent Redux Help</h2>
+	</td>
+		</tr>
+</tbody></table>
+<h1>Release Notes</h1>
+<b>1 May, 2012: <br>
+<br>
+</b>Version 1.0.2 released. Bug fixes: Files with future dates won't be shown anymore; Recent Redux app won't be shown anymore.
+<br>
+<br>
+<b>11 April, 2012: <br>
+<br>
+</b>Version 1.0.1 released. Bug fix for a bug showing under certain conditions when trying to open the preferences window.
+<br>
+<br>
+<b>22 February, 2011: <br>
+<br>
+  </b>Version 1.0 released. Limitations: Due to technical limitations of Apple's Spotlight service, Recent Redux cannot at the moment monitor files which are low-level accessed by applications (e.g. by iTunes), files which are stored inside databases (e.g. by iPhoto)  and it also cannot monitor applications running from the Menu Bar. There may be issues with custom filters for certain file types, for example Microsoft Powerpoint 2011 files. Moreover, Recent Redux doesn't monitor files stored in network or cloud locations. <br><br>
+</div></body></html>

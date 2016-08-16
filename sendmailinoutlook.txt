@@ -1,0 +1,7 @@
+tell application "Microsoft Outlook"
+	activate
+	set MailAnhang to alias "%@"
+	set AutoMail to make new outgoing message
+	make new attachment at AutoMail with properties {file:MailAnhang}
+	open AutoMail
+end tell

@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html><head>
+	<title>Recent Redux Help</title> 
+	<meta name="AppleTitle" content="Recent Redux Help" >
+	<meta name="copyright" content="Copyright 2011 Tim Schröder. All Rights Reserved." >
+	<meta name="AppleIcon" content="images/logosmall.png" >
+	<meta name="description" content="Recent Redux Help." >
+	<meta http-equiv="content-type" content="text/html; charset=x-mac-roman" >
+	<link href="styles.css" rel="stylesheet" media="screen" type="text/css" ></head><body bgcolor="#FFFFFF" style="" >
+
+
+<div class="border" >
+<table border="0" cellpadding="0" cellspacing="5" >
+	<tbody><tr valign="center" >
+		<td width="60" align="center" valign="center" >
+			<p>
+			<img src="images/logoverysmall.png" alt="" ></p>
+		</td>
+		<td class="contents" valign="center" >
+				<h2>Recent Redux Help</h2>
+	</td>
+		</tr>
+</tbody></table>
+<h1>Getting Started</h1>
+
+Recent Redux is a tool keeping track of files and folders ("items") which have been recently used on your computer. It is updated live by using Apple's Spotlight service and allows for direct access to these items. If you want, you can also define filters to show you just those items you need. <br><br>
+<h3>Main Window</h3>What you see in the application's main window are items on your local storage media which have been recently accessed. They are sorted by date and time with the most recent ones being at the top of the list. As they are accessed or modified while Recent Redux is running, the list is updated live. 
+<h3>Filter Bar</h3>
+Above the list of recently accessed items is the Filter Bar (see also <a href="filterprefs.html" target="" name="" >Filter Preferences</a>). It shows all filters not disabled in the Filter Preferences. You can click on a filter tag to activate this filter, click again to deactivate it. The Main Window and the Dock Menu will show only recently accessed items matching the filter criteria. You can select more than one filter at the same time by holding the &lt;Shift&gt; key while clicking on a filter tag. In case the Main Window is not wide enough to display all filter tags, the remaining filter tags will be displayed in an overflow context menu accessible by clicking on the arrow symbol at the right side of the Filter Bar. 
+<h3>Hotkey and Always in Front</h3>
+If you have the Global Hotkey enabled (see <a href="genprefs.html" target="" name="" >General Preferences</a>), you can bring the main window to front by simply clicking the &lt;alt&gt; + &lt;cursor left&gt; keys at the same time. If you want to have the main window stay at front all the time, you can do so by checking the Always in Front Option in the Windows Menu.
+<h3>Dock Menu</h3>
+Like the main window, the dock menu (secondary click on the application's dock icon while it is running) shows the ten most recent accessed items. The dock menu is not updated live.
+<h3>What Do You See?</h3>
+What you see in the main window (and in the dock menu) is the result of raw Spotlight data returning normally an awful lot of information about items accessed on your computer. This huge amount of information is then filtered two times:<ol><li>First, according to the settings you have provided in the Preferences (see <a href="searchprefs.html" target="" name="" >Search Preferences</a>), Spotlight results are narrowed in time, location and type of access.</li><li>Second, the results are further narrowed down by the filters you have selected in the Filter Bar or in the Filter Menu (see <a href="filterprefs.html" target="" name="" >Filter Preferences</a>). </li></ol>
+<h3>Actions</h3>
+You can perform a number of actions on the items shown in the main window. These actions are similar to actions available in Finder. You can use either Recent Redux' Main Menu to perform an action or use the Context Menu of the Main Window (secondary click on an item in the Main Window). See <a href="actions.html" target="" name="" >Actions</a> for a detailed description of what actions are available.<br><br></div></body></html>

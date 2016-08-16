@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html><head>
+	<title>Recent Redux Help</title> 
+	<meta name="AppleTitle" content="Recent Redux Help" >
+	<meta name="copyright" content="Copyright 2011 Tim Schröder. All Rights Reserved." >
+	<meta name="AppleIcon" content="images/logosmall.png" >
+	<meta name="description" content="Recent Redux Help." >
+	<meta http-equiv="content-type" content="text/html; charset=x-mac-roman" >
+	<link href="styles.css" rel="stylesheet" media="screen" type="text/css" ></head><body bgcolor="#FFFFFF" style="" >
+
+
+<div class="border" >
+<table border="0" cellpadding="0" cellspacing="5" >
+	<tbody><tr valign="center" >
+		<td width="60" align="center" valign="center" >
+			<p>
+			<img src="images/logoverysmall.png" alt="" ></p>
+		</td>
+		<td class="contents" valign="center" >
+				<h2>Recent Redux Help</h2>
+	</td>
+		</tr>
+</tbody></table>
+<h1>Filter Preferences</h1>
+The Filter Preferences Pane of the Preferences Window shows all existing filters and allows you to manage and to edit them. 
+<h3>Managing Filters</h3>
+On the left side of the Filter Preferences Pane is a source list containing all existing filters. Filters are shown in the Filter Bar and in the Filter Menu in the order in which they are listed in this source list. To change order, drag and drop list entries. Add and delete entries by clicking on the appropriate buttons at the bottom of the source list. Note, however, that you cannot delete the built-in "All" filter. 
+<br>
+On the right side of the pane the title and description of each filter is shown and can be edited, with the exception of the built-in "All" filter. There you can also enable or disable a filter. Disabling a filter will hide the filter from the Filter Bar and the Filter Menu. 
+<h3>Editing Filters</h3>
+By clicking on the Edit Button at the bottom right of the pane, you can edit the filter criteria for the built-in filters (with the exception of the built-in "All" filter) as well as for user-created filters. 
+
+In the editing panel you can define your filter criteria line for line. Press the plus button at the right side of each line to add a new line, or press the &lt;alt&gt; key and the button to add a subordinated line. Each subset of filter critera begins with a "logic line" in which you define whether all or at least one ("any") of the criteria contained in the following line have to be true. In the following lines, you can then choose to compare: 
+<ul>
+<li>an item's Uniform Type Identifier (like "public.item" or "com.apple.bundle") to an arbitrary string,</li>
+<li>an item's file name to an arbitrary string using one of the following matching methods: contains, begins with and ends with.</li></ul>
+</div></body></html>

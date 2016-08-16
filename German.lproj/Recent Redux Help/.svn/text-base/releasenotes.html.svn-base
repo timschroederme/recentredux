@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<html><head>
+	<title>Recent-Redux-Hilfe</title> 
+	<meta name="AppleTitle" content="Recent-Redux-Hilfe" >
+	<meta name="copyright" content="Copyright 2011 Tim SchrÃ¶der. All Rights Reserved." >
+	<meta name="AppleIcon" content="images/logosmall.png" >
+	<meta name="description" content="Recent-Redux-Hilfe." >
+	<meta http-equiv="content-type" content="text/html; charset=x-mac-roman" >
+	<link href="styles.css" rel="stylesheet" media="screen" type="text/css" ></head><body bgcolor="#FFFFFF" style="" >
+
+
+<div class="border" >
+<table border="0" cellpadding="0" cellspacing="5" >
+	<tbody><tr valign="center" >
+		<td width="60" align="center" valign="center" >
+			<p>
+			<img src="images/logoverysmall.png" alt="" ></p>
+		</td>
+		<td class="contents" valign="center" >
+				<h2>Recent-Redux-Hilfe</h2>
+	</td>
+		</tr>
+</tbody></table>
+<h1>Release Notes</h1>
+<b>1. Mai 2012: <br>
+<br>
+</b>Version 1.0.2 fertiggestellt. 
+Verbesserungen: Dateien und Ordner mit einem €nderungsdatum in der Zukunft werden nicht mehr angezeigt; Recent Redux selbst wird in Ergebnislisten nicht mehr angezeigt.<br>
+<br>
+<b>11. April 2012: <br>
+<br>
+</b>Version 1.0.1 fertiggestellt. 
+Beseitigt Fehler, der unter bestimmten Voraussetzungen beim Aufrufen der Einstellungen auftreten kann.<br>
+<br>
+<b>22. Februar 2011: <br>
+<br>
+  </b>Version 1.0 fertiggestellt. Einschr&auml;nkungen: Aufgrund technischer Beschr&auml;nkungen von Apples Spotlight-Service kann Recent Redux derzeit den Zugriff auf Dateien, die &uuml;ber systemnahe Funktionen aufgerufen werden (z.B. durch iTunes), auf Dateien, die innerhalb von Datenbanken gespeichert werden (z.B. durch iPhoto) und  auf Anwendungen, die in der Men&uuml;leiste des Desktops laufen, nicht &uuml;berwachen. Au&szlig;erdem kann es beim Filtern bestimmter Dateitypen Probleme geben, unter anderem bei Microsoft-Powerpoint-2011-Dateien. Ferner &uuml;berwacht Recent Redux nur solche Dateien und Ordner, die in lokalen Speicherorten gespeichert sind, also nicht auf Netzlaufwerken oder im Internet.
+<br><br>
+</div></body></html>
