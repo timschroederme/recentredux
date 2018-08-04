@@ -20,6 +20,6 @@ Use the filter bar to instantly narrow down the list of recent files. Modify and
 
 Use the built-in system-wide hotkey to activate Recent Redux, no matter where you are. If you like to, make Recent Redux to always stay in front of all other windows on your screen. Even easier to find: Open the Dock Menu for lightning-fast access to the ten most recent files.
 
-### Screenshot
+## Screenshot
 
 ![Recent Redux Screenshot](recentredux-screenshot.png)
