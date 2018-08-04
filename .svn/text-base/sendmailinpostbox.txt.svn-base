@@ -1,7 +1,0 @@
-tell application "Postbox"
-	
-	activate
-	
-	send message attachment "%@"
-	
-end tell
